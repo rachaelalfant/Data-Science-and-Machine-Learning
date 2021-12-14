@@ -5,7 +5,7 @@ A __Supervised Learning__ algorithm takes in both features and labels as inputs 
 - __Classification__: these algorithms are trained to predict which class of labels a data point belongs to. 
 - __Regression__: these algorithms are trained to predict a numerical value for a data point based on its features.
 
-Some supervised learning algorithms, such as Logistic Regression, can be used for both classification and regression. 
+Some supervised learning algorithms, such as Logistic Regression and Decision Trees, can be used for both classification and regression. 
 
 The folders in this directory are organized as follows:
 
