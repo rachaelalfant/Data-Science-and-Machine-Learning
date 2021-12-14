@@ -4,6 +4,10 @@ __Data Visualization__ is a crucial part of data science and machine learning be
 
 In the following module, __Visualizing & Making Predictions with Financial Data__, we design an algorithm that predicts trends in the close prices of [Stooq Index Data](https://stooq.com/db/). More info on remote data access can be found with the [Pandas Data Reader Documentation](https://pandas-datareader.readthedocs.io/en/latest/remote_data.html#stooq-index-data).
 
+---
+
+### Software Requirements
+
 The following packages are required to run the attached code:
 
 - [Plotly](https://plotly.com/python/)
